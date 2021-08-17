@@ -1,5 +1,11 @@
 # Web Design Challenge: Web Visualization Dashboard (Latitude)
 
+The live site can be found hosted on GitHub pages at the following address: https://sarasharah.github.io/Web_Design_Challenge/index.html
+
+This repository contains all the site source files and additional resources used in the production site.
+
+The website contains the charts and analysis from a WeatherPy project using data from over 500 cities to determine trends among the datapoints relative to latitude.
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
